@@ -1,10 +1,10 @@
-// Copyright CtitroenGames 2023
+// Copyright Epic Games, Inc. All Rights Reserved.
 
 using UnrealBuildTool;
 
-public class FPSE_Example : ModuleRules
+public class MPSE_Example : ModuleRules
 {
-	public FPSE_Example(ReadOnlyTargetRules Target) : base(Target)
+	public MPSE_Example(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

@@ -1,16 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "{EFA3F5E2-4A54-AED1-5DF6-C1B10620A223}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "FPSE_Example",
+			"Name": "MPSE_Example",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
