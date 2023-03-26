@@ -17,6 +17,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "MultiplayerShooterEssential",
+			"Enabled": true,
+			"MarketplaceURL": "Essential"
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
